@@ -1,6 +1,8 @@
 #Open Logic Analyzer
 A synthesizable, internal, FPGA-tested, Verilog 16-bit logic analyzer that comes bundled with a Python2.7-based controller and a (swappable) serial interface
 
+Written during the 2014 edition of the Ideas and Projects Workshop, Tirgu Mures, Romania.
+
 ###Usage
 
 Add the module, assign the monitored bits to DATA_IN, then send a command
