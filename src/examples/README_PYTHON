@@ -1,0 +1,5 @@
+Usage: python controller.py target-file port baud-rate
+e.g. python controller.py D:\dump.vcd COM23 115200
+
+uses pySerial
+python-2.7
